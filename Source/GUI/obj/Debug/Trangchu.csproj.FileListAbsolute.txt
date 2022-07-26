@@ -1,0 +1,11 @@
+F:\TrongDaiFiles\dotnet\Cbook\index\bin\Debug\index.exe.config
+F:\TrongDaiFiles\dotnet\Cbook\index\bin\Debug\index.exe
+F:\TrongDaiFiles\dotnet\Cbook\index\bin\Debug\index.pdb
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\Trangchu.csproj.AssemblyReference.cache
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\Trangchu.csproj.SuggestedBindingRedirects.cache
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\index.frm_index.resources
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\index.Properties.Resources.resources
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\Trangchu.csproj.GenerateResource.cache
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\Trangchu.csproj.CoreCompileInputs.cache
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\index.exe
+F:\TrongDaiFiles\dotnet\Cbook\index\obj\Debug\index.pdb
