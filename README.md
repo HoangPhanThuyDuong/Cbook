@@ -13,10 +13,6 @@
   3.  Hoàng Phan Thủy Dương
       2024802010040@student.tdmu.edu.vn
       
-# Mô tả:
-  -	  Công nghệ sử dụng: ASP.NET MVC, MSSQL, BOOTSTRAP, JQUERY
-  -	  Chức năng chính: Phân công công tác cho các giảng viên cố vấn. Đăng ký lịch sinh hoạt, báo cáo hoạt động sinh hoạt.
-
 
 # Yêu cầu về hệ thống:
   -	  Hệ điều hành Window
